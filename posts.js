@@ -5,8 +5,8 @@ const posts = [
   {
     id: 1,
     date: "2026-03-10",
-    time: "08:00",
-    account: "company", // Dominiek
+    time: "09:00",
+    account: "personal", // Dominiek
     title: "De stille crisis in Nederlandse finance",
     text: `Er zijn 18.000+ openstaande vacatures in finance en accounting in Nederland.
 
@@ -36,7 +36,7 @@ Hoeveel posities staan er bij jou open?
   {
     id: 2,
     date: "2026-03-12",
-    time: "12:00",
+    time: "10:30",
     account: "company", // Finbridge page
     title: "Wat is Finance as a Service eigenlijk?",
     text: `Je hebt Software as a Service.
@@ -74,8 +74,8 @@ Stuur mij een DM of reageer hieronder. 🤝
   {
     id: 3,
     date: "2026-03-14",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Traditionele detachering is achterhaald",
     text: `Ik zeg het maar gewoon:
 
@@ -108,8 +108,8 @@ Ben jij klaar voor een gesprek? Stuur mij een bericht. 📩
   {
     id: 4,
     date: "2026-03-17",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Hoe een accountantskantoor van 12 man hun deadline redde",
     text: `December. Jaarrekeningen moeten op.
 3 van zijn 12 mensen ziek.
@@ -143,7 +143,7 @@ Herken jij dit scenario?
   {
     id: 5,
     date: "2026-03-19",
-    time: "12:00",
+    time: "10:30",
     account: "company",
     title: "De echte kosten van een openstaande vacature",
     text: `Een openstaande finance vacature kost je gemiddeld €1.200 per dag.
@@ -178,8 +178,8 @@ Benieuwd wat het jouw organisatie bespaart? Stuur ons een bericht. 💬
   {
     id: 6,
     date: "2026-03-21",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "5 dingen die CFO's in 2026 anders moeten doen",
     text: `De rol van de CFO verandert sneller dan ooit.
 
@@ -211,8 +211,8 @@ Welke van deze vijf past bij jou?
   {
     id: 7,
     date: "2026-03-24",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Waarom 73% van alle finance vacatures langer dan 3 maanden openstaat",
     text: `73% van alle finance vacatures in Nederland staat langer dan 90 dagen open.
 
@@ -245,7 +245,7 @@ Stuur mij een bericht — 30 minuten gesprek, dan weet je wat de mogelijkheden z
   {
     id: 8,
     date: "2026-03-26",
-    time: "12:00",
+    time: "10:30",
     account: "company",
     title: "Een dag uit het leven van een Finbridge professional",
     text: `08:00 in Sarajevo.
@@ -280,8 +280,8 @@ Wil je weten hoe dit eruit ziet voor jouw organisatie?
   {
     id: 9,
     date: "2026-03-28",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Als dit geen reden is om ons te bellen",
     text: `Binnen 4 weken live.
 All-in tarief.
@@ -314,8 +314,8 @@ DM mij of ga naar fin-bridge.nl 👇
   {
     id: 10,
     date: "2026-04-02",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Na Pasen: nieuwe Q2, nieuwe capaciteitsvraag",
     text: `Q1 is achter de rug. Q2 begint.
 
@@ -348,7 +348,7 @@ Ongeacht wat er op uw pad komt.
   {
     id: 11,
     date: "2026-04-07",
-    time: "08:00",
+    time: "09:00",
     account: "company",
     title: "De cijfers achter nearshoring in Europa",
     text: `De nearshoring markt in Europa groeide de afgelopen 3 jaar met 34%.
@@ -382,8 +382,8 @@ Klaar voor de stap? 🌍
   {
     id: 12,
     date: "2026-04-09",
-    time: "12:00",
-    account: "company",
+    time: "10:30",
+    account: "personal",
     title: "3 misvattingen over nearshoring",
     text: `"Ze spreken toch geen Nederlands?"
 "De kwaliteit is lager toch?"
@@ -411,7 +411,7 @@ Wat is jouw twijfel? Ik beantwoord hem graag. 👇
   {
     id: 13,
     date: "2026-04-14",
-    time: "08:00",
+    time: "09:00",
     account: "company",
     title: "Van intern team naar hybride model: 35% besparing",
     text: `Hij had een finance team van 8 mensen.
@@ -446,8 +446,8 @@ Wil je weten of dit ook werkt voor jouw organisatie?
   {
     id: 14,
     date: "2026-04-16",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Koningsdag: is jouw finance team gedekt?",
     text: `Nederland viert feest op 27 april.
 Maar de kwartaalrapportages wachten niet.
@@ -479,8 +479,8 @@ Plan een gratis intake: fin-bridge.nl
   {
     id: 15,
     date: "2026-04-21",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Wat kost een fout in de jaarrekening echt?",
     text: `Een fout in de jaarrekening kost gemiddeld €47.000.
 
@@ -513,7 +513,7 @@ Ik help je graag dit in kaart brengen. 📊
   {
     id: 16,
     date: "2026-04-23",
-    time: "12:00",
+    time: "10:30",
     account: "company",
     title: "Nearshoring vs. detachering: wat past bij jou?",
     text: `Beide zijn flexibele oplossingen voor capaciteitsproblemen in finance.
@@ -547,8 +547,8 @@ Onze intake is gratis en duurt 30 minuten. 💬
   {
     id: 17,
     date: "2026-04-25",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Bevrijdingsdag: vrij van personeelszorgen",
     text: `5 mei vieren we vrijheid. 🇳🇱
 
@@ -580,8 +580,8 @@ Gelukkige Bevrijdingsdag. En als je maandag een gesprek wilt — ik sta klaar. �
   {
     id: 18,
     date: "2026-05-05",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Het personeelstekort in finance: de cijfers voor 2026",
     text: `In 2026 verwacht de Nederlandse financiële sector een tekort van 22.000 professionals.
 
@@ -614,7 +614,7 @@ Einde van het tekort probleem voor jou. Morgen al.
   {
     id: 19,
     date: "2026-05-07",
-    time: "12:00",
+    time: "10:30",
     account: "company",
     title: "Moederdag en de onzichtbare overuren in finance",
     text: `Elke tweede zondag van mei.
@@ -645,8 +645,8 @@ Jullie zijn helden.
   {
     id: 20,
     date: "2026-05-09",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Waarom de beste finance professionals niet meer in jouw stad wonen",
     text: `De beste finance professional die ik ooit ontmoette woont in Sarajevo.
 
@@ -680,8 +680,8 @@ Ben jij klaar om mee te doen?
   {
     id: 21,
     date: "2026-05-12",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Dit zei een klant na 3 maanden Finbridge",
     text: `"Ik had dit 2 jaar geleden al moeten doen."
 
@@ -713,7 +713,7 @@ Begin nu. Plan een gesprek. Kijk of het past.
   {
     id: 22,
     date: "2026-05-14",
-    time: "12:00",
+    time: "10:30",
     account: "company",
     title: "Hemelvaartsdag: uw team is vrij, uw deadlines niet",
     text: `Nederland heeft 11 officiële feestdagen per jaar.
@@ -743,8 +743,8 @@ En als je maandag wilt bespreken hoe dit voor jouw organisatie werkt — ik ben 
   {
     id: 23,
     date: "2026-05-16",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "De 4 vragen die elke CFO zichzelf moet stellen",
     text: `Ik spreek wekelijks tientallen finance directors.
 
@@ -773,7 +773,7 @@ Welke vraag raak jij het meest? 👇
   {
     id: 24,
     date: "2026-05-19",
-    time: "08:00",
+    time: "09:00",
     account: "company",
     title: "Pinksteren: even pauzeren, dan doorpakken",
     text: `Twee dagen rust.
@@ -805,8 +805,8 @@ Fijne Pinksterdagen. 🕊️
   {
     id: 25,
     date: "2026-05-21",
-    time: "12:00",
-    account: "company",
+    time: "10:30",
+    account: "personal",
     title: "Wat kost uw accountant per uur écht?",
     text: `Bruto salaris: €70.000
 
@@ -844,7 +844,7 @@ Ik stuur je een gratis berekening. Stuur mij een DM. 📊
   {
     id: 26,
     date: "2026-05-23",
-    time: "09:30",
+    time: "09:00",
     account: "company",
     title: "Halfjaar check-in: hoe scoort uw finance team?",
     text: `Halverwege het jaar.
@@ -877,8 +877,8 @@ Plan uw gratis intake: fin-bridge.nl 👈
   {
     id: 27,
     date: "2026-06-02",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Zomervakantie eraan: is uw finance team gedekt?",
     text: `Juli en augustus.
 
@@ -914,7 +914,7 @@ Klaar om te plannen? 👉 fin-bridge.nl
   {
     id: 28,
     date: "2026-06-04",
-    time: "12:00",
+    time: "10:30",
     account: "company",
     title: "Het recruitment circus: wat het werkelijk kost",
     text: `Gemiddelde time-to-hire in finance: 68 dagen.
@@ -953,8 +953,8 @@ Stop met het circus. Begin met Finbridge.
   {
     id: 29,
     date: "2026-06-06",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Achter de schermen: ons kwaliteitsproces",
     text: `Mensen vragen me altijd: "Maar hoe weet je dat de kwaliteit goed is?"
 
@@ -990,7 +990,7 @@ Vragen over ons proces? Ik beantwoord ze graag. 👇
   {
     id: 30,
     date: "2026-06-09",
-    time: "08:00",
+    time: "09:00",
     account: "company",
     title: "Wat AI doet met de finance sector",
     text: `AI vervangt geen accountants.
@@ -1024,8 +1024,8 @@ Klaar voor de toekomst van finance? 🤖
   {
     id: 31,
     date: "2026-06-11",
-    time: "12:00",
-    account: "company",
+    time: "10:30",
+    account: "personal",
     title: "Stop met zoeken. Begin met werken.",
     text: `Elke dag dat u zoekt naar de perfecte kandidaat is een dag dat uw team te hard werkt.
 
@@ -1063,7 +1063,7 @@ Daarna weet u of Finbridge bij u past.
   {
     id: 32,
     date: "2026-06-13",
-    time: "09:30",
+    time: "09:00",
     account: "company",
     title: "Waarom Sarajevo voor finance de beste keuze is",
     text: `Polen, Tsjechië, Roemenië, Bosnië.
@@ -1102,8 +1102,8 @@ Meer weten? 👉 fin-bridge.nl
   {
     id: 33,
     date: "2026-06-16",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "De finance manager van 2030",
     text: `In 2030 ziet de finance functie er fundamenteel anders uit.
 
@@ -1133,7 +1133,7 @@ Ik help organisaties die kant op te bewegen. 🚀
   {
     id: 34,
     date: "2026-06-18",
-    time: "12:00",
+    time: "10:30",
     account: "company",
     title: "Azra's verhaal: van Sarajevo naar Nederlandse finance",
     text: `Azra studeerde finance aan de Universiteit van Sarajevo.
@@ -1168,8 +1168,8 @@ Trots op ons team. 🙏
   {
     id: 35,
     date: "2026-06-20",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Zomerstop? Wij niet.",
     text: `Over 2 weken begint voor veel Nederlandse kantoren de zomerpauze.
 
@@ -1202,8 +1202,8 @@ Laat de zomer eindelijk écht een zomer zijn. ☀️
   {
     id: 36,
     date: "2026-06-23",
-    time: "08:00",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Halfjaar resultaten: 3 feiten die finance managers wakker houden",
     text: `We zijn bijna halverwege 2026.
 
@@ -1231,7 +1231,7 @@ Ik praat er graag over. 🎯
   {
     id: 37,
     date: "2026-06-25",
-    time: "12:00",
+    time: "10:30",
     account: "company",
     title: "Accountantskantoor vs Finance Director: twee klanten, één oplossing",
     text: `We werken voor twee totaal verschillende klanttypen.
@@ -1265,8 +1265,8 @@ Plan een gesprek: fin-bridge.nl 👈
   {
     id: 38,
     date: "2026-06-27",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "De zomer begint: bent u klaar?",
     text: `Juli is bijna aangebroken.
 
@@ -1298,7 +1298,7 @@ Laten we het regelen. Vandaag.
   {
     id: 39,
     date: "2026-06-30",
-    time: "08:00",
+    time: "09:00",
     account: "company",
     title: "30 juni: halfjaar afsluiting",
     text: `30 juni.
@@ -1334,8 +1334,8 @@ Fijne afsluiting van het eerste halfjaar. 💪
   {
     id: 40,
     date: "2026-07-02",
-    time: "12:00",
-    account: "company",
+    time: "10:30",
+    account: "personal",
     title: "Wat ik geleerd heb van 100 gesprekken met CFO's",
     text: `In de afgelopen maanden sprak ik met meer dan 100 CFO's en finance directors.
 
@@ -1369,8 +1369,8 @@ Ik ben beschikbaar voor een gesprek als u zich in één van deze vijf quotes her
   {
     id: 41,
     date: "2026-07-04",
-    time: "09:30",
-    account: "company",
+    time: "09:00",
+    account: "personal",
     title: "Waarom we Finbridge hebben opgericht",
     text: `Het begon met één simpele observatie.
 
@@ -1406,7 +1406,7 @@ Trots op ons team en onze klanten. 🙏
   {
     id: 42,
     date: "2026-07-07",
-    time: "08:00",
+    time: "09:00",
     account: "company",
     title: "Zomercijfers: zo presteert finance in Q3",
     text: `Zomer is in volle gang.
@@ -1439,8 +1439,8 @@ Plan uw Q4 capaciteit: fin-bridge.nl 📊
   {
     id: 43,
     date: "2026-07-09",
-    time: "12:00",
-    account: "company",
+    time: "10:30",
+    account: "personal",
     title: "September is het nieuwe januari",
     text: `Na de zomervakantie wordt september door finance managers gezien als het meest kritieke startmoment van het jaar.
 
@@ -1474,7 +1474,7 @@ Dat is het altijd waard.
   {
     id: 44,
     date: "2026-07-14",
-    time: "08:00",
+    time: "09:00",
     account: "company",
     title: "4 maanden later: dit heeft Finbridge bewezen",
     text: `4 maanden geleden begonnen we met het delen van onze visie op finance en nearshoring.
