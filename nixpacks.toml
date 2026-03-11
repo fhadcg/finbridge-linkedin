@@ -1,2 +1,5 @@
-[variables]
-NODE_ENV = "production"
+[phases.build]
+cmds = ["npm install"]
+
+[start]
+cmd = "node index.js"
